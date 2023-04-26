@@ -91,4 +91,4 @@ really well structured courses with just enough code and theory to take you from
 2. Tips for further learning and resources
 3. How to ask question in this repository
 
-| Note: This is standard lesson plan I made and is subjected to change till I complete all lectures. 
+> **__NOTE__**: This is standard lesson plan I made and is subjected to change till I complete all lectures. 
