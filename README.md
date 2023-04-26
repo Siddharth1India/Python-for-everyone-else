@@ -13,7 +13,6 @@ really well structured courses with just enough code and theory to take you from
 2. Basic Python syntax and data types
 3. Variables, operators, and expressions
 4. Input/output operations in Python
-<br>
 
 ### Lecture 2: Control Flow and Loops
 
@@ -21,7 +20,6 @@ really well structured courses with just enough code and theory to take you from
 2. Looping constructs (for loop, while loop)
 3. Break and continue statements
 4. Using control flow to make decisions in Python programs
-<br>
 
 ### Lecture 3: Functions and Modules
 
@@ -30,7 +28,6 @@ really well structured courses with just enough code and theory to take you from
 3. Scope and lifetime of variables
 4. Built-in functions and standard libraries
 5. Creating and using modules in Python
-<br>
 
 ### Lecture 4: Data Structures - Lists
 
@@ -39,7 +36,6 @@ really well structured courses with just enough code and theory to take you from
 3. List methods and built-in functions for lists
 4. List comprehensions
 5. Nested lists and multi-dimensional arrays
-<br>
 
 ### Lecture 5: Data Structures - Tuples, Sets, and Dictionaries
 
@@ -48,7 +44,6 @@ really well structured courses with just enough code and theory to take you from
 3. Dictionaries: creating, indexing, and methods
 4. Comparing and contrasting different data structures
 5. Choosing the right data structure for different use cases
-<br>
 
 ### Lecture 6: File Input/Output
 
@@ -57,7 +52,6 @@ really well structured courses with just enough code and theory to take you from
 3. File handling techniques (using 'with' statement)
 4. Exception handling in file operations
 5. Best practices for file I/O in Python
-<br>
 
 ### Lecture 7: Object-Oriented Programming
 
@@ -66,7 +60,6 @@ really well structured courses with just enough code and theory to take you from
 3. Attributes and methods in Python classes
 4. Inheritance, polymorphism, and encapsulation
 5. Creating and using custom classes in Python
-<br>
 
 ### Lecture 8: Exception Handling and Debugging
 
@@ -75,7 +68,6 @@ really well structured courses with just enough code and theory to take you from
 3. Raising custom exceptions
 4. Debugging techniques in Python
 5. Best practices for error handling and debugging
-<br>
 
 ### Lecture 9: Advanced Python Concepts
 
@@ -84,7 +76,6 @@ really well structured courses with just enough code and theory to take you from
 3. Understanding namespaces and closures
 4. Concurrency and multi-threading in Python
 5. Best practices for writing efficient Python code
-<br>
 
 ### Lecture 10: Final Project and Conclusion
 
