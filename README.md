@@ -2,6 +2,7 @@
 Made with ❤ by [Siddharth](https://twitter.com/Siddharth1India).
 <br>
 Special thanks to [Aditya](https://github.com/Aditya-Bhatt-1811) for proof-reading, suggestions and support.
+<br>
 Alright, so there are multiple Python courses on YouTube and other platforms so how this is different?<br>
 Actually it is not. It is same as most courses, not everything is supposed to be unique. It is just one of those
 really well structured courses with just enough code and theory to take you from absolute code newbie to a person who can think some logic, write some code and understand other people's code.<br>
